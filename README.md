@@ -1,4 +1,3 @@
-# 👋 안녕하세요! PUZZ 입니다!
-
-AI와 추천시스템을 공부하고 있는 석사생입니다.
-현재는 LightGCN과 ABSA(Aspect-Based Sentiment Analysis)를 활용한 논문 아이디어를 연구 중입니다.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hello%2C+PUZZ)](https://git.io/typing-svg)
+![PUZZ's profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
+![PUZZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
