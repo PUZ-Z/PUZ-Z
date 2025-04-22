@@ -19,7 +19,7 @@
 
 <h2 align="left">🏅 Stats</h2>
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=PUZ-Z&bg_color=ffffff&title_color=000000&text_color=000000&hide_border=true&card_width=400" height="200"/>
