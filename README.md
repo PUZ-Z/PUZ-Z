@@ -19,7 +19,7 @@
 
 <div style="text-align: center;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="display: inline-flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=PUZ-Z&bg_color=ffffff&title_color=000000&text_color=000000&hide_border=true&card_width=400" height="200"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUZ-Z&layout=donut&hide_border=true" height="200"/>
   </div>
