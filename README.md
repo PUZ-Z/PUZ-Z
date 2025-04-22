@@ -17,7 +17,7 @@
   </div>
 </div>
 
-<h2>🏅 Stats</h2>
+<h2 align="left">🏅 Stats</h2>
 <div align="center">
   <table>
     <tr>
