@@ -18,15 +18,13 @@
 </div>
 
 <h2 align="left">🏅 Stats</h2>
+
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=PUZ-Z&bg_color=ffffff&title_color=000000&text_color=000000&hide_border=true&card_width=400" height="200"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUZ-Z&layout=donut&hide_border=true" height="200"/>
-      </td>
-    </tr>
-  </table>
+  <div style="display: inline-block;">
+    <img src="https://github-readme-stats.vercel.app/api?username=PUZ-Z&bg_color=ffffff&title_color=000000&text_color=000000&hide_border=true&card_width=400" height="200"/>
+  </div>
+  <div style="display: inline-block; margin-left: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUZ-Z&layout=donut&hide_border=true" height="200"/>
+  </div>
 </div>
+
