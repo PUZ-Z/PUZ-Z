@@ -19,10 +19,28 @@
 
 <h2 align="left">🏅 Stats</h2>
 
+<h2 align="left">🏆 Awards</h2>
+
+- Grand Prize Award, Startup Korea Investment Week 2024, Daejeon Center for Creative Economy & Innovation, Korea (Sep. 2024)
+- Excellence Prize Award, Global Startup Nomad Idea Contest, Leaders in Industry-University Cooperation 3.0, Korea (Aug. 2024)
+- Excellence Prize Award, 2023 Shipbuilding-Shipping Big Data Idea Contest, Korea Maritime and Ocean University, Korea (Dec. 2023)
+- Busan Global Hub City Youth Hackathon Competition, Busan Metropolitan City, Korea (Aug. 2024)
+- Academic Excellence Scholarship, Dongseo University, Korea (Sep. 2024)
+
+<h2 align="left">🎓 Education</h2>
+
+- M.S. in Big Data Application, Kyung Hee University, Korea (In Progress)
+
+<h2 align="left">📄 Papers</h2>
+
+
+
 <div align="center">
   <div style="display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api?username=PUZ-Z&bg_color=ffffff&title_color=000000&text_color=000000&hide_border=true&card_width=400" height="200"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUZ-Z&layout=donut&hide_border=true" height="200"/>
   </div>
 </div>
+
+
 
