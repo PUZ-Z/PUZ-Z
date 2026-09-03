@@ -19,8 +19,6 @@
 
 <h2 align="left">🏅 Stats</h2>
 
-<h2 align="left">🏆 Awards</h2>
-
 - Grand Prize Award, Startup Korea Investment Week 2024, Daejeon Center for Creative Economy & Innovation, Korea (Sep. 2024)
 - Excellence Prize Award, Global Startup Nomad Idea Contest, Leaders in Industry-University Cooperation 3.0, Korea (Aug. 2024)
 - Excellence Prize Award, 2023 Shipbuilding-Shipping Big Data Idea Contest, Korea Maritime and Ocean University, Korea (Dec. 2023)
