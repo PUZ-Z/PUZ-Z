@@ -31,6 +31,7 @@
 
 <h2 align="left">📄 Papers</h2>
 
+- A Sentiment Intensity-aware Knowledge Graph for Recommendation
 
 
 <div align="center">
