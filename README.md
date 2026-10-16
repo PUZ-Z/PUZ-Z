@@ -35,7 +35,7 @@
 
 <h2 align="left">📣 Conferences</h2>
 
-- 
+- Utilizing Sentiment Weight-based Knowledge Graph for Enhanced Recommendation | 2025.11, 한국경영과학회 추계학술대회
 
 <div align="center">
   <div style="display: inline-block;">
