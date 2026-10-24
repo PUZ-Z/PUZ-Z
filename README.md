@@ -36,7 +36,7 @@
 <h2 align="left">📣 Conferences</h2>
 
 - Utilizing Sentiment Weight-based Knowledge Graph for Enhanced Recommendation | 2025.11, 한국경영과학회 추계학술대회
-- | 2026.~,
+- 다중 관점 정보를 활용한 마이크로 비디오 추천 모델 | 2026.05, 한국IT서비스학회 춘계학술대회
 - L-DPS:Latest-Behavior-Aware Dual-Persona Sequential Recommendation | 2026.10, 한국경영과학회 추계학술대회
 - A Sequential Recommendation Framework Using LLM Reasoning with User Characteristics | 2026.10, 한국경영과학회 추계학술대회
 
