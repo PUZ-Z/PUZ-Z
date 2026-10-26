@@ -17,7 +17,7 @@
   </div>
 </div>
 
-<h2 align="left">🏅 Stats</h2>
+<h2 align="left">Stats</h2>
 
 - Grand Prize Award, Startup Korea Investment Week 2024, Daejeon Center for Creative Economy & Innovation, Korea (Sep. 2024)
 - Excellence Prize Award, Global Startup Nomad Idea Contest, Leaders in Industry-University Cooperation 3.0, Korea (Aug. 2024)
@@ -25,18 +25,18 @@
 - Busan Global Hub City Youth Hackathon Competition, Busan Metropolitan City, Korea (Aug. 2024)
 - Academic Excellence Scholarship, Dongseo University, Korea (Sep. 2024)
 
-<h2 align="left">🎓 Education</h2>
+<h2 align="left">Education</h2>
 
 - M.S. in Big Data Application, Kyung Hee University, Korea (In Progress)
 
-<h2 align="left">📄 Papers</h2>
+<h2 align="left">Papers</h2>
 
 - A Sentiment Intensity-aware Knowledge Graph for Recommendation
 
-<h2 align="left">📣 Conferences</h2>
+<h2 align="left">Conferences</h2>
 
 - Utilizing Sentiment Weight-based Knowledge Graph for Enhanced Recommendation | 2025.11, 한국경영과학회 추계학술대회
-- 다중 관점 정보를 활용한 마이크로 비디오 추천 모델 | 2026.05, 한국IT서비스학회 춘계학술대회
+- ALP-MG: 긍정 및 부정 암시적 피드백과 멀티 그래프 모델링을 활용한 속성 수준 선호 학습 기반 마이크로 비디오 추천 | 2026.05, 한국IT서비스학회 춘계학술대회
 - L-DPS:Latest-Behavior-Aware Dual-Persona Sequential Recommendation | 2026.10, 한국경영과학회 추계학술대회
 - A Sequential Recommendation Framework Using LLM Reasoning with User Characteristics | 2026.10, 한국경영과학회 추계학술대회
 
