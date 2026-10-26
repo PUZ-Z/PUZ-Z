@@ -27,7 +27,8 @@
 
 <h2 align="left">Education</h2>
 
-- M.S. in Big Data Application, Kyung Hee University, Korea (In Progress)
+- M.S., Department of Big Data Application, Kyung Hee University, Korea (In Progress)
+- B.S., Department of Applied Artificial Intelligence, Dong Seo University, Korea
 
 <h2 align="left">Papers</h2>
 
