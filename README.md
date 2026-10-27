@@ -35,8 +35,8 @@
 - A Sentiment Intensity-aware Knowledge Graph for Recommendation
 
 <h2 align="left">Conferences</h2>
-
 - Utilizing Sentiment Weight-based Knowledge Graph for Enhanced Recommendation | 2025.11, 한국경영과학회 추계학술대회
+- 효과적인 프로필 구성을 위한 양자화 및 LLM 기반 멀티모달 추천시스템 | 2025.11, 한국경영과학회 추계학술대회
 - ALP-MG: 긍정 및 부정 암시적 피드백과 멀티 그래프 모델링을 활용한 속성 수준 선호 학습 기반 마이크로 비디오 추천 | 2026.05, 한국IT서비스학회 춘계학술대회
 - L-DPS:Latest-Behavior-Aware Dual-Persona Sequential Recommendation | 2026.10, 한국경영과학회 추계학술대회
 - A Sequential Recommendation Framework Using LLM Reasoning with User Characteristics | 2026.10, 한국경영과학회 추계학술대회
